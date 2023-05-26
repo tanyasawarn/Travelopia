@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "travelopia",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
